@@ -6,6 +6,8 @@ public class EjercicioUno{
         int celsius = input.nextInt();
         double fahrenheit = (9.0/5)* celsius + 32
         System.out.println("El resutado es: "+ fahrenheit)
+        //Hoaaaa
+        
     }
 }
     
